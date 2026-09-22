@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="หน้า-1" id="XLp_j1U-0-BBiPNX5hMD">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-18" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3.1" vertex="1">
+          <mxGeometry height="80" width="200" x="234" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-2" parent="N-MlKD1Fij8OCWgis1xx-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ตรวจสอบสิทธิ์และเงื่อนไขการยืม" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-19" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3.2" vertex="1">
+          <mxGeometry height="80" width="200" x="234" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-4" parent="N-MlKD1Fij8OCWgis1xx-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ตรวจสอบความซ้ำซ้อนและเวลา" vertex="1">
+          <mxGeometry height="30" width="220" x="-20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-20" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3.3" vertex="1">
+          <mxGeometry height="80" width="200" x="234" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-6" parent="N-MlKD1Fij8OCWgis1xx-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="บันทึกข้อมูลคำขอยืม" vertex="1">
+          <mxGeometry height="30" width="220" x="-20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="630" as="sourcePoint" />
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3.4" vertex="1">
+          <mxGeometry height="80" width="200" x="234" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-8" parent="N-MlKD1Fij8OCWgis1xx-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" แยกประเภทการอนุมัติ" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-25" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ผู้ใช้งาน" vertex="1">
+          <mxGeometry height="50" width="120" x="20" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-27" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-10" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" value="D1" vertex="1">
+          <mxGeometry height="30" width="110" x="590" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ผู้ใช้งาน" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-30" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="N-MlKD1Fij8OCWgis1xx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" value="D2" vertex="1">
+          <mxGeometry height="30" width="110" x="590" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" ข้อมูลอุปกรณ์" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-32" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.205;exitY=-0.111;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612.58" y="400" />
+              <mxPoint x="410" y="400" />
+            </Array>
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-14" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" value="D3" vertex="1">
+          <mxGeometry height="30" width="110" x="590" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-34" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647.5" y="380" />
+              <mxPoint x="746" y="380" />
+              <mxPoint x="746" y="185" />
+            </Array>
+            <mxPoint x="726" y="442.5" as="sourcePoint" />
+            <mxPoint x="440" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ข้อมูลการยืม" vertex="1">
+          <mxGeometry height="30" width="70" x="630" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="4.0" vertex="1">
+          <mxGeometry height="80" width="200" x="234" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-17" parent="N-MlKD1Fij8OCWgis1xx-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" พิจารณาอนุมัติคำขอ" vertex="1">
+          <mxGeometry height="30" width="160" x="20" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="คำขอที่ผ่านการตรวจสิทธิ์" vertex="1">
+          <mxGeometry height="30" width="150" x="190" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="คำขอที่ผ่านการตรวจเวลา" vertex="1">
+          <mxGeometry height="30" width="150" x="190" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="คำขอที่บันทึกเรียบร้อย" vertex="1">
+          <mxGeometry height="30" width="150" x="190" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;code&gt;ข้อมูลการขอยืม&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="144" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ข้อมูลสิทธิ์ / ประวัติการค้างส่ง" vertex="1">
+          <mxGeometry height="30" width="90" x="460" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="รายละเอียด/ระยะเวลาการยืม" vertex="1">
+          <mxGeometry height="30" width="140" x="450" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ช่วงเวลาการจองอุปกรณ์" vertex="1">
+          <mxGeometry height="30" width="140" x="435" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-36" edge="1" parent="1" source="N-MlKD1Fij8OCWgis1xx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="N-MlKD1Fij8OCWgis1xx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="คำขอยืมใหม่" vertex="1">
+          <mxGeometry height="30" width="70" x="480" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=" คำขออุปกรณ์ทั่วไป" vertex="1">
+          <mxGeometry height="30" width="140" x="150" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="sourcePoint" />
+            <mxPoint x="360" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;code&gt;คำขออุปกรณ์พิเศษ&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="344" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="N-MlKD1Fij8OCWgis1xx-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ข้อมูลการยืมปัจจุบัน" vertex="1">
+          <mxGeometry height="30" width="140" x="520" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
