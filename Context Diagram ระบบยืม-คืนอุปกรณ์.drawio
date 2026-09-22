@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="หน้า-1" id="XC4PfQiQlLQGwAHY89GC">
+    <mxGraphModel dx="1086" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ผู้ใช้งาน (นักศึกษา/อาจารย์)" vertex="1">
+          <mxGeometry height="50" width="160" x="330" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="1" vertex="1">
+          <mxGeometry height="80" width="250" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-5" parent="bSucmygFS2nrwfCJ3Jh_-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ระบบยืม-คืน อุปกรณ์ห้องปฏิบัติงาน" vertex="1">
+          <mxGeometry height="30" width="190" x="25" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="เจ้าหน้าที่ห้องปฏิบัติการ" vertex="1">
+          <mxGeometry height="50" width="160" x="335" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.194;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.288;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460.96" y="210" as="sourcePoint" />
+            <mxPoint x="459.99999999999994" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ข้อมูลการเข้าสู่ระบบ /&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;คำขอยืมอุปกรณ์ / วัตถุประสงค์&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ข้อมูลรายการอุปกรณ์ว่าง / สถานะอนุมัติ / ประวัติการยืม" vertex="1">
+          <mxGeometry height="30" width="190" x="470" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-11" edge="1" parent="1" source="bSucmygFS2nrwfCJ3Jh_-1" style="endArrow=classic;html=1;rounded=0;entryX=0.288;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.194;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" target="bSucmygFS2nrwfCJ3Jh_-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-12" edge="1" parent="1" source="bSucmygFS2nrwfCJ3Jh_-6" style="endArrow=classic;html=1;rounded=0;exitX=0.156;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="bSucmygFS2nrwfCJ3Jh_-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="455" y="290" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="จัดการและรับคืนอุปกรณ์" vertex="1">
+          <mxGeometry height="30" width="190" x="150" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="bSucmygFS2nrwfCJ3Jh_-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="คำขอยืมที่รออนุมัติ /&amp;nbsp;&amp;nbsp;รายการอุปกรณ์ที่ถูกยืมอยู่" vertex="1">
+          <mxGeometry height="30" width="190" x="460" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
